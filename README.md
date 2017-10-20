@@ -1,4 +1,6 @@
-# Coursetro
+# Learn Angular 4 through Coursetro
+
+Course available through https://coursetro.com/courses/12/Learn-Angular-4-from-Scratch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
 
