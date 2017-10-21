@@ -4,6 +4,17 @@ Course available through https://coursetro.com/courses/12/Learn-Angular-4-from-S
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
 
+## Starting a new project
+
+### with standard CSS
+> ng new project-name
+
+### with Sass
+> ng new project-name --style=sass
+
+### with SCSS
+> ng new project-name --style=scss
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
