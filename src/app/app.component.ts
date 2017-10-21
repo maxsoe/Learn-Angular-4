@@ -13,9 +13,15 @@ import { Component } from '@angular/core';
   <ng-template #tmpl1>I'm here</ng-template>
   <ng-template #tmpl2>I'm note here</ng-template>
 
+  <br>
+  <br>
+  <button (click)="myEvent($event)">My Button</button>
   `
 })
 export class AppComponent {
+  myEvent(event) {
+    console.log(event);
+  }
 
   myObject = {
     gender: 'male',
